@@ -1,16 +1,47 @@
-## Hi there 👋
 
-<!--
-**sunnyghodke9299-dev/sunnyghodke9299-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sunny Ramesh Ghodke</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Aspiring Python Full Stack Developer | MCA (AI) Student</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Building web applications and exploring AI-powered solutions.
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 MCA (AI) Student at G.H. Raisoni Skill Tech University, Pune
+- 💻 Interested in Python Full Stack Development
+- 🌱 Currently learning Backend Development and REST APIs
+- 🚀 Working on an AI-powered project called JobMate AI
+- 🎯 Goal: Become a skilled Full Stack Developer
+
+### 🛠️ Technical Skills
+
+- **Languages:** Python, JavaScript, SQL
+- **Frontend:** React.js, HTML, CSS
+- **Backend:** Python
+- **Database:** MySQL
+- **Tools:** VS Code, Git, GitHub
+
+### 🚀 Projects
+
+- **JobMate AI** – AI-powered career guidance platform (In Progress)
+
+### 📚 Currently Learning
+
+- Python Backend Development
+- REST API Development
+- Advanced React.js
+- Database Management
+
+### 🤝 Connect With Me
+
+- GitHub: [@sunnyghodke9299-dev](https://github.com/sunnyghodke9299-dev)
+
+---
+
+<p align="center">
+  <b>Learning every day, building every day! 🚀</b>
+</p>
